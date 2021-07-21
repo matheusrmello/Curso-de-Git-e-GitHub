@@ -1,2 +1,4 @@
-# Curso-de-Git-e-GitHub
- Curos de Git e GitHub do Curso e Video
+# Curso de Git e GitHub do Curso em Video
+ Primeiro repositório do curso de Git e GitHub
+
+ Repositóro criado durante a aula
